@@ -2,11 +2,11 @@ TEAM ACDC
 
 MEMBERS:
     -Hassan:
-        UserID      =   Hali96
-        StudentID   =   921441638
+        UserID      =   -
+        StudentID   =   -
     -Niyant:
-        UserID      =   Nvnanava
-        StudentID   =   920121331
+        UserID      =   -
+        StudentID   =   -
 
 HOW TO COMPILE AND RUN:
     Run $make
