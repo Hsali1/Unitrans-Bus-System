@@ -1,0 +1,28 @@
+{
+	"what" : 
+	{
+		"model" : "Android",
+		"name" : "Phone"
+	},
+	"when" : 
+	{
+		"date" : "12",
+		"day" : "Wednesday",
+		"month" : "April",
+		"time" : "06:32 PM",
+		"year" : "2023"
+	},
+	"where" : 
+	{
+		"latitude" : 38.564635605927322,
+		"longitude" : -121.71912561850077,
+		"name" : "Moore and Pollock"
+	},
+	"who" : 
+	[
+		{
+			"name" : "Felix",
+			"occupation" : "Professor"
+		}
+	]
+}

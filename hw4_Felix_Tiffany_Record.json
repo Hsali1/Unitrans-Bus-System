@@ -1,0 +1,32 @@
+{
+	"what" : 
+	{
+		"model" : "L Line",
+		"name" : "Unitrans"
+	},
+	"when" : 
+	{
+		"date" : "12",
+		"day" : "Wednesday",
+		"month" : "April",
+		"time" : "06:10 PM",
+		"year" : "2023"
+	},
+	"where" : 
+	{
+		"latitude" : 38.538834158923194,
+		"longitude" : -121.75302024080716,
+		"name" : "Silo Station"
+	},
+	"who" : 
+	[
+		{
+			"name" : "Felix",
+			"occupation" : "Professor"
+		},
+		{
+			"name" : "Tiffany",
+			"occupation" : "Bus Driver"
+		}
+	]
+}

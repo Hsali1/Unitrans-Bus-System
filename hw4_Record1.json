@@ -1,0 +1,27 @@
+{
+	"what" : 
+	{
+		"model" : "Android",
+		"name" : "Phone"
+	},
+	"when" : 
+	{
+		"day" : "Wednesday",
+		"month" : "12",
+		"time" : "06:00 PM",
+		"year" : "April"
+	},
+	"where" : 
+	{
+		"latitude" : 38.538759700019398,
+		"longitude" : -121.7501328966561,
+		"name" : "Everson Hall"
+	},
+	"who" : 
+	[
+		{
+			"name" : "Felix",
+			"occupation" : "Professor"
+		}
+	]
+}

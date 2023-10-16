@@ -1,0 +1,36 @@
+{
+	"what" : 
+	{
+		"model" : "Blackberry",
+		"name" : "Computer"
+	},
+	"when" : 
+	{
+		"date" : "12",
+		"day" : "Wednesday",
+		"month" : "April",
+		"time" : "06:20 PM",
+		"year" : "2023"
+	},
+	"where" : 
+	{
+		"latitude" : 38.551960670710777,
+		"longitude" : -121.73879676082973,
+		"name" : "8th and J Street"
+	},
+	"who" : 
+	[
+		{
+			"name" : "Felix",
+			"occupation" : "Professor"
+		},
+		{
+			"name" : "Tiffany",
+			"occupation" : "Bus Driver"
+		},
+		{
+			"name" : "John",
+			"occupation" : "Student"
+		}
+	]
+}
